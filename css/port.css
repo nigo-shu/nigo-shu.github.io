@@ -6,7 +6,7 @@
 
 body {
     font-family:YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif
-    background-color: #e1cea3
+    
     font-size: 14px;
 }
 
@@ -19,8 +19,8 @@ header {
 
 
 .prof-image {
-    margin:0 0 25px 0;
-    border:7px solid #b1d7e4;
+    margin:40px 0 20px 0;
+    border:7px solid #bac1c7;
     border-radius: 100%;
     max-width:170px;
     text-align:center;
@@ -35,17 +35,16 @@ header {
 
 */
 
-body p {
-    text-align: center;
-}
+
 
 
 .N-effect {
-    color: #fff;
+    color: #147472;
     font-size: 60px;
     font-weight: 700;
     text-align: center;
-    text-shadow: 1px 1px 0px #888;
+    padding: 0 20px 0 0;
+    text-shadow: 1px 1px 0px #b1623d;
 }
 
 
@@ -70,7 +69,52 @@ text-shadow: black 1px 1px 0px, black -1px 1px 0px,
 
 
 
-.name-title {
+
+h2 {
     font-size: 30px;
-    font-color: #
+    color: #fff;
+    margin: 0 0 10px 0;
+    padding: 0 0 40px 0;
 }
+
+
+
+.col-sm-5 {
+    text-align: center;
+    background-color: #c0542d;
+
+}
+
+.col-sm-7 {
+    text-align: justify;
+    margin: 0px;
+    padding: 10px 0 17px 0;
+    color: #004679;
+    background-color: #dfd4be;
+　　
+}
+
+
+h3 {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0 0 0 40px ;
+}
+
+div p {
+    color: #004679;
+    padding: 0 0 0 60px;
+}
+
+ul {
+    padding: 0 0 0 70px;
+}
+
+section p{
+    font-size: 14px;
+    color: #111;
+    padding: 0;
+    margin: 0;
+}
+
+
