@@ -118,3 +118,39 @@ section p{
 }
 
 
+.no-1 {
+        background-color: #487ca3;
+            font-size: 14px;
+
+
+}
+
+.no-2 {
+        background-color: #d6d680;
+            font-size: 14px;
+
+
+}
+.no-3 {
+        background-color: #8eb4d9;
+            font-size: 14px;
+
+
+}
+.no-4 {
+        background-color: #a44682;
+            font-size: 14px;
+
+
+}
+
+
+footer {
+    color: #fff;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #6c5776;
+
+}
